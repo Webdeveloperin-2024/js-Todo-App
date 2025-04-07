@@ -12,4 +12,4 @@ This project is an advanced To-Do List application built using JavaScript and Ob
 
 Click [here](https://js-todoapp-js.netlify.app) to see demo
 
-![To do App](./images/Todoapppreviewfoto.png)# Js-ToDolistApp
+![To do App](./images/Todoapppreviewfoto.png)
